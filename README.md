@@ -5,7 +5,7 @@ CS6461 Computer Architecture Project - Component 0
 ## Team Members
 Team 7:
 Chandle Mubashir,
-Tshiswaka Mukendi, 
+Mukendi Patrick Tshiswaka, 
 Miguel Martinez
 
 ## Project Description
